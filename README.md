@@ -1,6 +1,6 @@
 ## **Brief Explanation**
 
-![cano2](https://github.com/user-attachments/assets/d9cda332-e786-4a54-a363-c235bf172981)
+![cano2](https://github.com/user-attachments/assets/8a500cf9-d932-428c-9f0b-de0a6c21e560)
 
 ### **What is CANO?**
 
