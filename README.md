@@ -1,4 +1,4 @@
-## ** Brief Explanation**
+## **Brief Explanation**
 
 ### **What is CANO?**
 
