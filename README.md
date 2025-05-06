@@ -23,3 +23,9 @@ CANO is needed because many high-value or adversarial networks are air-gapped or
 CANO enables operatives to gain access to those networks through physical proximity or wireless vulnerabilities, and then remotely manage implanted devices using covert communication channels like cellular modems and encrypted VPN tunnels. 
 
 It allows for persistent access, remote command and control, and operational flexibility without risking attribution. In essence, it extends cyber capabilities into non-traditional, physically isolated environments, which is essential for reconnaissance, surveillance, and offensive cyber effects in the field.
+
+### **Has CANO been useful?**
+
+One notable [example](https://irp.fas.org/doddir/army/fm3-12.pdf?utm_source=chatgpt.com) is the 2018 incident involving Russian military intelligence officers (GRU) who were caught attempting to hack into the Wi-Fi network of the Organization for the Prohibition of Chemical Weapons (OPCW) in The Hague. The operatives were discovered with specialized equipment designed to intercept wireless communications, highlighting the risks and methods associated with close-proximity cyber operations.
+
+In response to such exposures, adversaries have adapted their tactics. By 2022, GRU hackers developed a technique known as the "nearest neighbor attack," where they compromised a device on a nearby network and used it as a relay to access the target's Wi-Fi network. This method allowed them to conduct operations without being physically close to the target, reducing the risk of detection.
