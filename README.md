@@ -4,7 +4,7 @@
 
 CANO, or Close Access Network Operations, is a method for gaining access to closed wireless networks by exploiting the WPA2 authentication process. It involves using a Raspberry Pi equipped with two Alpha Wi-Fi cards, one to monitor and another to transmit.
 
-To ensure remote access and operational security, the Raspberry Pi connects to an intermediary server via a cellular modem using WireGuard VPN, allowing an operator to manage the device without direct attribution. CANO encompasses both the technical tools deployed on the Raspberry Pi and the setup used by the end user to control and interact with it.
+Raspberry Pi connects to a server via a cellular modem using WireGuard VPN, allowing an operator to manage the device. CANO encompasses both the technical tools deployed on the Raspberry Pi and the setup used by the end user to control and interact with it.
 
 # PI Setup and Tool Guide
 
