@@ -11,3 +11,7 @@ Raspberry Pi connects to a server via a cellular modem using WireGuard VPN, allo
 ### **What is the Wirless Exploit?**
 
 There isn't a single name for this exploit, but what is, is a **WPA2 Deauth + Handshake Capture Attack**
+
+You send a deauthentication frame to forcibly disconnect a client from the access point. When the client reconnects, it performs a four-way handshake with the AP. You can capture this handshake, which contains a hash of the pre-shared key.
+
+So the exploit isn’t breaking WPA2 directly—it's exploiting the unprotected nature of management frames and the fact that the handshake exposes a hash that can be attacked offline.
