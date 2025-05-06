@@ -18,7 +18,7 @@ So the exploit isn’t breaking WPA2 directly, it's exploiting the unprotected n
 
 ### **Why is CANO needed?**
 
-CANO is needed because many high-value or adversarial networks are air-gapped or closed. These networks are often used in sensitive environments—such as forward operating bases, research facilities, or command centers—where standard remote cyber operations simply won’t work.
+CANO is needed because many high-value or adversarial networks are air-gapped or closed. These networks are often used in sensitive environments, such as forward operating bases, research facilities, or command centers, where standard remote cyber operations simply won’t work.
 
 CANO enables operatives to gain access to those networks through physical proximity or wireless vulnerabilities, and then remotely manage implanted devices using covert communication channels like cellular modems and encrypted VPN tunnels. 
 
